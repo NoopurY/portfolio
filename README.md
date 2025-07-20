@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/04005919-a974-414d-868d-66f9c74303db" /><img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/b29c0ca9-38d9-4775-820d-e5629b589ee4" /><img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/38990781-d0d2-41ae-9d27-c16174dc18b5" /># Internship Details
+# Internship Details
 Company Name-CODTECH IT SOLUTIONS
 Name- Noopur Yawalkar 
 Intern id- CT06DG841
