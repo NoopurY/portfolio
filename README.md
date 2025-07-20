@@ -25,7 +25,7 @@ Light/Dark Mode Toggle
 CSS Keyframe Animation
 
 📸 Preview!
-<img width="1000" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/77ba20ce-c496-44e5-ab67-b1a5600a4934" />
+<img width="1000" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/41bfb6f1-f844-46a3-a9b9-0b65f6c3093f" />
 
 <img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/528a1705-2dc4-4f67-9547-f229c7ecd599" />
 
